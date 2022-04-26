@@ -1,0 +1,9 @@
+#idle 8
+#jump 8
+#run 8
+#shifted 8
+#axe_smash 44
+#cutter 52
+#death 16
+#trasformation_demon 73
+#trasformation_astral 55

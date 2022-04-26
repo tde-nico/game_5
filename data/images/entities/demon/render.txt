@@ -1,0 +1,3 @@
+#idle 55
+#trasformation_slime 73
+run 60

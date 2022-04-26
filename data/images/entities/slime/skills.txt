@@ -1,0 +1,17 @@
+id False
+tag axe_smash
+pos_fix_x -16
+pos_fix_x_flipped -20
+pos_fix_y -19
+pos_reset_x 16
+pos_reset_x_flipped 20
+pos_reset_y 19
+
+id False
+tag cutter
+pos_fix_x -17
+pos_fix_x_flipped -28
+pos_fix_y -23
+pos_reset_x 20
+pos_reset_x_flipped 25
+pos_reset_y 8
